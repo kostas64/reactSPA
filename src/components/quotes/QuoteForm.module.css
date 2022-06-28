@@ -34,6 +34,16 @@
   font-size: 1.25rem;
 }
 
+.error input {
+  background-color: #eecece;
+  border: 1px solid #dd593b;
+}
+
+.error textarea {
+  background-color: #eecece;
+  border: 1px solid #dd593b;
+}
+
 .control input:focus,
 .control textarea:focus {
   background-color: #cbf8f8;
